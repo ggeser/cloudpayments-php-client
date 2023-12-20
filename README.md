@@ -15,7 +15,7 @@
 Установить библиотеку можно с помощью composer:
 
 ```
-composer require flowwow/cloudpayments-php-client
+composer require ggeser/cloudpayments-php-client
 ```
 
 ## Начало работы
