@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Flowwow\\Cloudpayments\\": "src"
+            "ggeser\\Cloudpayments\\": "src"
         }
     },
     "scripts": {
